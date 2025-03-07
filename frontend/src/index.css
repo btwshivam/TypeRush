@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+@keyframes blink {
+    50% {
+      opacity: 0;
+    }
+  }
+  
+  .animate-blink {
+    animation: blink 0.8s infinite;
+  }
+  
+
+  @keyframes neon-glow {
+    0% { box-shadow: 0 0 10px rgba(0, 162, 255, 0.7); }
+    50% { box-shadow: 0 0 20px rgba(0, 162, 255, 1); }
+    100% { box-shadow: 0 0 10px rgba(0, 162, 255, 0.7); }
+  }
+  
+  .animate-neon {
+    animation: neon-glow 1.5s infinite alternate;
+  }
+  
+  html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    min-height: 100vh;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: rgb(15, 23, 42); /* slate-900 */
+  }
+
+  #root {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Optional: Add custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: rgb(15, 23, 42);
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgb(51, 65, 85);
+    border-radius: 4px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(71, 85, 105);
+  }
+  
+  
+  
