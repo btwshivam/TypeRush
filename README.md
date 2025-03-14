@@ -1,7 +1,7 @@
 # TypeRush - Advanced Typing Practice Platform 🚀
 
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/btwshivam/TypeRush/blob/main/LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-14.0%2B-brightgreen)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-4.17%2B-black?logo=express)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/React-18.0%2B-blue)](https://reactjs.org/)
