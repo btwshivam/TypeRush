@@ -6,9 +6,6 @@
 [![React](https://img.shields.io/badge/React-18.0%2B-blue)](https://reactjs.org/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-4.5.1-black)](https://socket.io/)
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=TypeRush+Screenshot" alt="TypeRush Screenshot" width="800"/>
-</p>
 
 ## 📖 Overview
 
@@ -58,6 +55,17 @@ Whether you're a programmer looking to improve coding speed, a student wanting t
 - **Personal Best Records** for each game mode and challenge
 - **Interactive Heatmaps & Charts** showing typing patterns
 - **Achievement History** and progression tracking
+
+
+![Screenshot (458)](https://github.com/user-attachments/assets/5b45c47c-2684-41a0-ab01-49485bcd3402)
+![Screenshot (460)](https://github.com/user-attachments/assets/75c80db7-6d4b-4146-a697-abab0847681e)
+![Screenshot (461)](https://github.com/user-attachments/assets/ea0e8b6a-d42b-4e25-933e-f92de5eeb785)
+![Screenshot (462)](https://github.com/user-attachments/assets/b908e7d1-a8be-4ae9-84b8-9b13aa842f69)
+![Screenshot (463)](https://github.com/user-attachments/assets/0342eae2-a9d0-452f-a0ad-c6b02ffbd2c4)
+![Screenshot (464)](https://github.com/user-attachments/assets/61fdd14b-dda3-4e9e-aec6-aafee49f7f7a)
+![Screenshot (465)](https://github.com/user-attachments/assets/3e31c8aa-aa76-40c6-af99-d0b5e9a02e70)
+
+
 
 ## 🛠️ Technical Stack
 
