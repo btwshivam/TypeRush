@@ -3,6 +3,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Node.js](https://img.shields.io/badge/Node.js-14.0%2B-brightgreen)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-4.17%2B-black?logo=express)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/React-18.0%2B-blue)](https://reactjs.org/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-4.5.1-black)](https://socket.io/)
 
